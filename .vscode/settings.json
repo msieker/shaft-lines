@@ -3,5 +3,8 @@
         "**/.venv/**": true
     },
     "python.linting.enabled": true,
-    "editor.rulers": [0, 100]
+    "python.linting.lintOnSave": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.pylintEnabled": true,
+    "editor.rulers": [100]
 }
