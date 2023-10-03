@@ -7,7 +7,7 @@ lazy-object-proxy==1.4.3
 mccabe==0.6.1
 mypy==0.780
 mypy-extensions==0.4.3
-Pillow==7.1.2
+Pillow==10.0.1
 pylint==2.5.3
 pymkv==1.0.7
 pysubs2==0.2.4
